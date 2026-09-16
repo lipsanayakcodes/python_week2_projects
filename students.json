@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "roll_number": 101,
+            "name": "Smruti Nayak",
+            "course": "BCA",
+            "marks": 85
+        },
+        {
+            "roll_number": 102,
+            "name": "Shraddha Das",
+            "course": "BCA",
+            "marks": 78
+        },
+        {
+            "roll_number": 103,
+            "name": "Ananya Sharma",
+            "course": "BCA",
+            "marks": 91
+        },
+        {
+            "roll_number": 105,
+            "name": "Akash Mishra",
+            "course": "BCA",
+            "marks": 97
+        }
+    ]
+}
